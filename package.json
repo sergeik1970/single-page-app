@@ -1,0 +1,16 @@
+{
+  "name": "single-page-app",
+  "version": "1.0.0",
+  "description": "Single page app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "sergeik1970",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
